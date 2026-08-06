@@ -1,19 +1,14 @@
 Bug Reporting Assignment
 
 Overview
-This repository contains my **Assignment No. 3 – Bug Reporting** completed as part of my Software Quality Assurance (QA) internship.
-
+This repository contains:
 The purpose of this assignment was to perform manual testing on multiple demo web applications, identify different types of defects, document them using a standard bug reporting format, assign severity and priority levels, and prepare release notes summarizing the testing results.
-
----
 
 Applications Tested
 - Buggy Just Test It
 - OrangeHRM
 - TutorialsNinja Demo Store
 - ParaBank
-
----
 
 Testing Scope
 The following areas were tested during manual testing:
@@ -29,8 +24,6 @@ The following areas were tested during manual testing:
 - UI and Layout
 - General Application Behavior
 
----
-
 Deliverables
 This repository includes:
 
@@ -39,8 +32,6 @@ This repository includes:
   - Release Notes
 
 - **README.md**
-
----
 
 Bug Summary
 A total of **15 bugs** were identified across the tested applications.
@@ -62,15 +53,11 @@ Priority Summary
 | Medium | 5 |
 | Low | 2 |
 
----
-
 Types of Bugs Identified
 - Functional Bugs
 - Validation Bugs
 - UI/Visual Bugs
 - Error Handling Bugs
-
----
 
 Key Findings
 Some of the major issues identified during testing include:
@@ -82,18 +69,14 @@ Some of the major issues identified during testing include:
 - Search functionality inconsistencies
 - Generic error messages affecting user experience
 
----
-
 Tools Used
 
 - Microsoft Excel
 - Google Chrome
 - GitHub
 
----
-
 Learning Outcomes
-Through this assignment, I gained practical experience in:
+Through this, I gained practical experience in:
 
 - Manual Testing
 - Bug Identification
@@ -103,19 +86,3 @@ Through this assignment, I gained practical experience in:
 - Software Quality Assurance Documentation
 - Using GitHub for project submission
 
-
-Repository Structure
-qa-bug-reporting-assignment/
-│
-├── Bug_Report_Assignment.xlsx
-└── README.md
-```
-
----
-
-Author
-
-**Izma Qamar**
-
-BBA (Management Information Systems) Student  
-Aspiring Software Quality Assurance & Technical Project Management Professional
