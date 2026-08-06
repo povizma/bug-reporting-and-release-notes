@@ -1,4 +1,4 @@
-# 🐞 Bug Reporting Assignment
+Bug Reporting Assignment
 
 ## Overview
 
