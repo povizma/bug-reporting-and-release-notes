@@ -1,15 +1,13 @@
 Bug Reporting Assignment
 
-## Overview
-
+Overview
 This repository contains my **Assignment No. 3 – Bug Reporting** completed as part of my Software Quality Assurance (QA) internship.
 
 The purpose of this assignment was to perform manual testing on multiple demo web applications, identify different types of defects, document them using a standard bug reporting format, assign severity and priority levels, and prepare release notes summarizing the testing results.
 
 ---
 
-## Applications Tested
-
+Applications Tested
 - Buggy Just Test It
 - OrangeHRM
 - TutorialsNinja Demo Store
@@ -17,8 +15,7 @@ The purpose of this assignment was to perform manual testing on multiple demo we
 
 ---
 
-## Testing Scope
-
+Testing Scope
 The following areas were tested during manual testing:
 
 - Navigation
@@ -34,8 +31,7 @@ The following areas were tested during manual testing:
 
 ---
 
-## Deliverables
-
+Deliverables
 This repository includes:
 
 - **Bug_Report_Assignment.xlsx**
@@ -46,11 +42,10 @@ This repository includes:
 
 ---
 
-## Bug Summary
-
+Bug Summary
 A total of **15 bugs** were identified across the tested applications.
 
-### Severity Summary
+Severity Summary
 
 | Severity | Count |
 |----------|------:|
@@ -59,7 +54,7 @@ A total of **15 bugs** were identified across the tested applications.
 | Medium | 4 |
 | Low | 2 |
 
-### Priority Summary
+Priority Summary
 
 | Priority | Count |
 |----------|------:|
@@ -69,8 +64,7 @@ A total of **15 bugs** were identified across the tested applications.
 
 ---
 
-## Types of Bugs Identified
-
+Types of Bugs Identified
 - Functional Bugs
 - Validation Bugs
 - UI/Visual Bugs
@@ -78,8 +72,7 @@ A total of **15 bugs** were identified across the tested applications.
 
 ---
 
-## Key Findings
-
+Key Findings
 Some of the major issues identified during testing include:
 
 - Missing input validation in forms
@@ -91,7 +84,7 @@ Some of the major issues identified during testing include:
 
 ---
 
-## Tools Used
+Tools Used
 
 - Microsoft Excel
 - Google Chrome
@@ -99,8 +92,7 @@ Some of the major issues identified during testing include:
 
 ---
 
-## Learning Outcomes
-
+Learning Outcomes
 Through this assignment, I gained practical experience in:
 
 - Manual Testing
@@ -111,11 +103,8 @@ Through this assignment, I gained practical experience in:
 - Software Quality Assurance Documentation
 - Using GitHub for project submission
 
----
 
-## Repository Structure
-
-```
+Repository Structure
 qa-bug-reporting-assignment/
 │
 ├── Bug_Report_Assignment.xlsx
@@ -124,7 +113,7 @@ qa-bug-reporting-assignment/
 
 ---
 
-## Author
+Author
 
 **Izma Qamar**
 
