@@ -1,9 +1,11 @@
 Bug Reporting Assignment
 
+
 Overview
 
 This repository contains:
 The purpose of this assignment was to perform manual testing on multiple demo web applications, identify different types of defects, document them using a standard bug reporting format, assign severity and priority levels, and prepare release notes summarizing the testing results.
+
 
 Applications Tested
 
@@ -11,6 +13,7 @@ Applications Tested
 - OrangeHRM
 - TutorialsNinja Demo Store
 - ParaBank
+
 
 Testing Scope
 
@@ -27,6 +30,7 @@ The following areas were tested during manual testing:
 - UI and Layout
 - General Application Behavior
 
+
 Deliverables
 
 This repository includes:
@@ -37,9 +41,11 @@ This repository includes:
 
 - **README.md**
 
+
 Bug Summary
 
 A total of **15 bugs** were identified across the tested applications.
+
 
 Severity Summary
 
@@ -58,12 +64,14 @@ Priority Summary
 | Medium | 5 |
 | Low | 2 |
 
+
 Types of Bugs Identified
 
 - Functional Bugs
 - Validation Bugs
 - UI/Visual Bugs
 - Error Handling Bugs
+
 
 Key Findings
 
@@ -81,6 +89,7 @@ Tools Used
 - Microsoft Excel
 - Google Chrome
 - GitHub
+
 
 Learning Outcomes
 
